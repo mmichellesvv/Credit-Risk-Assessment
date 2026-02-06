@@ -11,13 +11,13 @@ The analysis is based on a dataset provided by **Lending Club**, which contains 
 
 The target variable is derived from the loan status information. A binary default indicator is constructed as follows:
 
-* **Bad loans (default = 0):**
+* **Bad loans (default = 1):**
 
   * Loans with status *Charged Off*
   * Loans with status *Default*
   * Loans with payment delays of **31–120 days**
 
-* **Good loans (default = 1):**
+* **Good loans (default = 0):**
 
   * All remaining loan statuses
 
