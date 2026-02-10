@@ -5,7 +5,7 @@ The objective of this study is to develop a **Probability of Default (PD) model*
 
 The analysis is based on a dataset provided by **Lending Club**, which contains detailed information on consumer loans issued between **2007 and 2015**. The dataset comprises more than **460,000 loan observations** and includes borrower characteristics, loan attributes, financial indicators, and loan performance outcomes.
 
-<img width="730" height="335" alt="image" src="https://github.com/user-attachments/assets/39723b08-1677-421a-8c73-39fd5644565f" />
+<img width="800" height="335" alt="image" src="https://github.com/user-attachments/assets/39723b08-1677-421a-8c73-39fd5644565f" />
 
 ### Target Variable Definition
 
